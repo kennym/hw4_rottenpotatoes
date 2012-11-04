@@ -16,6 +16,7 @@ group :development, :test do
   gem 'simplecov'
 end
 group :test do
+  gem 'debugger'
   gem 'cucumber-rails'
 end
 group :production do
